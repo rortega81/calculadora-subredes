@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Visual de Subredes IP",
+  "description": "Herramienta educativa interactiva para el cálculo de subredes con visualización binaria de bits de red y host.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
